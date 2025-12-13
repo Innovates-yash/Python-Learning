@@ -19,3 +19,14 @@ c = "Hello, Python!"
 # String Indexing and slicing
 print(c[0])      # prints 'H'
 print(c[0:5])    # prints 'Hello'
+# end indexing of slicing you have to take n-1 value and put +1 indexing number to get correct output
+# output will be from 0 to 4 index value
+
+# Output/Input in python
+print("Hello python We are leaning and master it") # use print() function to print any data on screen
+# use input() function to take input from user
+
+name = input("Enter your name: ")  # takes input from user
+print("Hello, " + name + "!")  # greets the user with their name
+
+
